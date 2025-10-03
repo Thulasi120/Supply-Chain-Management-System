@@ -1,0 +1,61 @@
+                       Date,Vendor Name,Village,District,State,Quantity (Bags),Rate per Bag (Rs),Total Amount
+01 January 2025,Ramesh,Sattenapalli,Guntur,Andhra,20,1200,24000
+02 January 2025,Suresh,Guntur,Guntur,Andhra,30,1250,37500
+03 January 2025,Vijay,Tenali,Guntur,Andhra,40,1300,52000
+04 January 2025,Krishna,Vijayawada,Krishna,Andhra,50,1350,67500
+05 January 2025,Sai,Vinukonda,Palnadu,Andhra,60,1200,72000
+06 January 2025,Manoj,Palnadu,Palnadu,Andhra,70,1250,87500
+07 January 2025,Mani,Duggirala,Palnadu,Andhra,80,1300,104000
+08 January 2025,Srikanth,Kanchincherla,Guntur,Andhra,90,1350,121500
+09 January 2025,Vinay,kotappakonda,Guntur,Andhra,100,1200,120000
+10 January 2025,Venu,Narasaraopet,Palnadu,Andhra,110,1250,137500
+11 January 2025,kiran,Ameenabad,Guntur,Andhra,120,1300,156000
+12 January 2025,Saketh,Nandivelugu,Guntur,Andhra,130,1250,162500
+13 January 2025,Varma,Repalle ,Guntur,Andhra,140,1200,168000
+14 January 2025,Koushal,Magallu,Guntur,Andhra,150,1250,187500
+15 January 2025,Manjunath,Mamidivaram,Guntur,Andhra,160,1300,208000
+16 January 2025,Naresh,Somavaram,Guntur,Andhra,170,1350,229500
+17 January 2025,praneeth,Narakodur,Guntur,Andhra,180,1200,216000
+18 January 2025,Amar,Anaparthi,Guntur,Andhra,190,1250,237500
+19 January 2025,Anudeep,kolluru,Guntur,Andhra,200,1300,260000
+20 January 2025,Aravind,Ananthavaram,Guntur,Andhra,210,1350,283500
+21 January 2025,Koushal,Nallapadu,Guntur,Andhra,220,1200,264000
+22 January 2025,Navdeep,chirala,Bapatla,Andhra,230,1250,287500
+23 January 2025,Shiva,Bapatla,Bapatla,Andhra,240,1300,312000
+24 January 2025,Vishnu,Anuapalem,Guntur,Andhra,250,1350,337500
+25 January 2025,Mahesh,Appikatla,Guntur,Andhra,260,1200,312000
+26 January 2025,Parameshwar,Bandarupalle,Guntur,Andhra,270,1250,337500
+27 January 2025,Vikram,Bapatla East,Bapatla,Andhra,280,1300,364000
+28 January 2025,Viraj,Bapatla West,Bapatla,Andhra,290,1350,391500
+29 January 2025,Manikranth,Bellamkonda,Guntur,Andhra,300,1200,360000
+30 January 2025,Mnaideep,Bethapudi,Guntur,Andhra,310,1250,387500
+31 January 2025,Narendra,Bhattiprolu,Guntur,Andhra,320,1300,416000
+01 February 2025,Narasimha,Amaravathi,Guntur,Andhra,330,1350,445500
+02 February 2025,Sarath,Chiluvuru,Guntur,Andhra,340,1200,408000
+03 February 2025,Sandeep,Gorantla,Guntur,Andhra,350,1250,437500
+04 February 2025,Suman,Garikapadu,Guntur,Andhra,360,1300,468000
+05 February 2025,Kannaya,Gajulanka,Guntur,Andhra,370,1350,499500
+06 February 2025,varun,Ghantasala,Guntur,Andhra,380,1200,456000
+07 February 2025,Tarun,Donakonda,Ongole,Andhra,390,1250,487500
+08 February 2025,Srinadh,Dammalapadu,Ongole,Andhra,400,1300,520000
+09 February 2025,Kalyan,Dharmavaram,Ongole,Andhra,410,1350,553500
+10 February 2025,Nagaraj,Kunchinapalli,Guntur,Andhra,420,1200,504000
+11 February 2025,Raghava,Kothapalem,Guntur,Andhra,430,1250,537500
+12 February 2025,Naveen,Kotcherla,Guntur,Andhra,440,1300,572000
+13 February 2025,Nirmal,Kaza,Guntur,Andhra,450,1350,607500
+14 February 2025,Nagavamsi,Kollipara,Guntur,Andhra,460,1200,552000
+15 February 2025,Uma,Potapadu,Guntur,Andhra,470,1250,587500
+16 February 2025,Upendra,Ponnekallu,Guntur,Andhra,480,1300,624000
+17 February 2025,Gunashekar,Prathipadu,Guntur,Andhra,490,1350,661500
+18 February 2025,Ganesh,Mamillapalle,Guntur,Andhra,500,1200,600000
+19 February 2025,Yeshwanth,Mallaypalem,Guntur,Andhra,510,1250,637500
+20 February 2025,Balaram,Kollur,Guntur,Andhra,520,1300,676000
+21 February 2025,Bharath,Kattevaram,Guntur,Andhra,530,1350,715500
+22 February 2025,Badri,Patibandla,Guntur,Andhra,540,1200,648000
+23 February 2025,Avinash,Penumuru,Guntur,Andhra,550,1250,687500
+24 February 2025,Raghu,Ravikapadu,Guntur,Andhra,560,1300,728000
+25 February 2025,Ranadeep,Repudi,Guntur,Andhra,570,1350,769500
+26 February 2025,Tirupathi Rao,Jupudi,Guntur,Andhra,580,1200,696000
+27 February 2025,Prasad,Cherukupalle,Guntur,Andhra,590,1250,737500
+28 February 2025,Dinesh,Mothadaka,Guntur,Andhra,600,1300,780000
+,,,,,,Total,23298500
